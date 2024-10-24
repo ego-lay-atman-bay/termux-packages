@@ -16,10 +16,11 @@ TERMUX_PKG_LICENSE="LGPL-2.1"
 TERMUX_PKG_MAINTAINER="@ego-lay-atman-bay"
 
 # Version.
-TERMUX_PKG_VERSION=0.1-r475
+MUSEPACK_VERSION=r475
+TERMUX_PKG_VERSION=0.1-${MUSEPACK_VERSION}
 
 # URL to archive with source code.
-TERMUX_PKG_SRCURL=https://files.musepack.net/source/musepack_src_${TERMUX_PKG_VERSION}.tar.gz
+TERMUX_PKG_SRCURL=https://files.musepack.net/source/musepack_src_${MUSEPACK_VERSION}.tar.gz
 
 # SHA-256 checksum of the source code archive.
 TERMUX_PKG_SHA256=a4b1742f997f83e1056142d556a8c20845ba764b70365ff9ccf2e3f81c427b2b
