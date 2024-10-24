@@ -16,7 +16,7 @@ TERMUX_PKG_LICENSE="BSD/GNU LGPL"
 TERMUX_PKG_MAINTAINER="@ego-lay-atman-bay"
 
 # Version.
-TERMUX_PKG_VERSION=r475
+TERMUX_PKG_VERSION=0.1-r475
 
 # URL to archive with source code.
 TERMUX_PKG_SRCURL=https://files.musepack.net/source/musepack_src_${TERMUX_PKG_VERSION}.tar.gz
