@@ -6,7 +6,7 @@ TERMUX_PKG_DESCRIPTION="MusePack commandline utilities"
 
 # License.
 # Use SPDX identifier: https://spdx.org/licenses/
-TERMUX_PKG_LICENSE="BSD/GNU LGPL"
+TERMUX_PKG_LICENSE="LGPL"
 
 # Who cares about package.
 # Specify yourself (Github nick, or name + email) if you wish to maintain the
