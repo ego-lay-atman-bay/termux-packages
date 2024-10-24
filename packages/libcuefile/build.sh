@@ -20,7 +20,7 @@ MUSEPACK_VERSION=r475
 TERMUX_PKG_VERSION=0.1-${MUSEPACK_VERSION}
 
 # URL to archive with source code.
-TERMUX_PKG_SRCURL=https://files.musepack.net/source/libcuefile_${MUSEPACK_VERSION}.tar.g
+TERMUX_PKG_SRCURL=https://files.musepack.net/source/libcuefile_${MUSEPACK_VERSION}.tar.gz
 
 # SHA-256 checksum of the source code archive.
 TERMUX_PKG_SHA256=b681ca6772b3f64010d24de57361faecf426ee6182f5969fcf29b3f649133fe7
